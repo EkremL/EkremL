@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
-<h3 align="center">A passionate full-stack developer from Türkiye 🇹🇷</h3>
+<h3 align="center">A passionate full-stack developer from Turkey 🇹🇷</h3>
 
 - 🌱 I’m currently working with **JavaScript, React, Node.js and .NET**
 
 - 💬 Ask me about **React, Next.js, Express, ASP.NET Core, MongoDB, MSSQL, PostgreSQL**
 
-- 📫 How to reach me: **ekreml@example.com** (değiştirmen gerekebilir)
+- 📫 How to reach me: ekremlale1907@gmail.com
 
 - ⚡ Fun fact: I love building projects that challenge my limits 🚀
 
